@@ -1,2 +1,2 @@
-# my-demo
+# my project
 this is my frist demo
